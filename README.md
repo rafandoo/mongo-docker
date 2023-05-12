@@ -58,10 +58,6 @@ If you want to stop the containers, use the following command:
 docker-compose down
 ```
 
-## Questions and Improvements
-
-For any question or emprovement please send an e-mail to Shady Smaoui [shady@veloxsolutions.ca](mailto:shady@veloxsolutions.ca).
-
 ## License 🔑
 
 The [MIT License](https://github.com/rafandoo/mongo-docker/blob/13172c76240b24fb896acacbf0dab58ac546aea1/LICENSE) (MIT)
